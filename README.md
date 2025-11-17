@@ -2,7 +2,7 @@ A lightweight Python voice assistant that listens for voice commands, recognizes
  
  Features
 
-🎤 Speech Recognition using Google Speech API.
+🎤 Speech Recognition using Google Speech API
 
 🔊 Text-to-Speech responses.
 
