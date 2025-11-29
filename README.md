@@ -8,6 +8,6 @@ A lightweight Python voice assistant that listens for voice commands, recognizes
 
 🧠 Processes and returns voice commands.
 
-🧩 Easy to expand with new features or actions.
+🧩 Easy to expand with new features or actions
 
 🖥️ Fully written in Python
