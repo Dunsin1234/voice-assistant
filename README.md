@@ -11,3 +11,4 @@ A lightweight Python voice assistant that listens for voice commands, recognizes
 🧩 Easy to expand with new features or actions
 
 🖥️ Fully written in Python
+
